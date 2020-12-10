@@ -1,0 +1,10 @@
+C:\Users\ua4aeu\Desktop\RockPaperScissors-master\RockPaperScissors-master\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\ua4aeu\Desktop\RockPaperScissors-master\RockPaperScissors-master\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\ua4aeu\Desktop\RockPaperScissors-master\RockPaperScissors-master\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\ua4aeu\Desktop\RockPaperScissors-master\RockPaperScissors-master\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\ua4aeu\Desktop\RockPaperScissors-master\RockPaperScissors-master\RockPaperScissors\obj\Debug\RockPaperScissors.frmRockPaperScissors.resources
+C:\Users\ua4aeu\Desktop\RockPaperScissors-master\RockPaperScissors-master\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\ua4aeu\Desktop\RockPaperScissors-master\RockPaperScissors-master\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\ua4aeu\Desktop\RockPaperScissors-master\RockPaperScissors-master\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\ua4aeu\Desktop\RockPaperScissors-master\RockPaperScissors-master\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\ua4aeu\Desktop\RockPaperScissors-master\RockPaperScissors-master\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
